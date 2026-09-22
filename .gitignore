@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+credentials.json
+token.json
+.idea/
+.pytest_cache/
+.ruff_cache/
+app/bonuses/

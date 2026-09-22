@@ -1,0 +1,6 @@
+aiogram==3.20.0.post0
+asyncpg==0.30.0
+psycopg2-binary==2.9.10
+python-dotenv==1.1.1
+gspread>=6.1,<7
+google-auth>=2.40,<3
